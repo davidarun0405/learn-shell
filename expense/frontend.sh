@@ -10,4 +10,4 @@ ls -ltr
 
 systemctl restart nginx 
 
-echo "** Frontend Installation Is Completed so next is backend**"
+echo "** Frontend Installation Is Completed **"
